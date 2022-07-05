@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    justify-content: center;
+    color: white;
+    align-items: center;
+}
+
+.price {
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.align1 {
+    text-align: center;
+}
+
+.td {
+    width: 150;
+    font-size: x-large;
+    text-align: center;
+}
+
+.table {
+    height: 300px;
+    background-color: rgb(25, 10, 10);
+    border-radius: 5px;
+}
